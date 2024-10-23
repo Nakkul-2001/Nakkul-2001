@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nakkul and aspiring Data Analyst
+- 👋 Hi, I’m @Nakkul an aspiring Data Analyst
 - 👀 I’m interested in understanding and solving business problems
 - 🌱 I’m currently learning how to extract the data and communicate it to the stockholders
 - 📫 How to reach me - www.linkedin.com/in/rachala-nakkul-82a53b212
